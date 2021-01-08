@@ -3,3 +3,6 @@ Projeto final da disciplina de Programação concorrente, onde busquei simular, 
 
 # Emergency room Occupation Simulation due to COVID-19
 Final project of the Concurrent Programming discipline, where I tried to simulate, using threads and execution control mechanisms, the Emergencie's behavior and occupation of  Intensive Care Units duting COVID-19 pandemic.
+
+
+Link to explanation video on You Tube: https://youtu.be/i3tqsdTyer0
